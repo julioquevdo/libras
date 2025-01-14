@@ -115,9 +115,3 @@ Certifique-se de que a versão do TensorFlow seja compatível com o modelo salvo
 Contribuições são bem-vindas! Caso deseje adicionar novas funcionalidades ou melhorar o código, sinta-se à vontade para criar um pull request.
 
 ---
-
-## **Licença**
-
-Este repositório está licenciado sob a MIT License. Veja o arquivo `LICENSE` para mais detalhes.
-
----
